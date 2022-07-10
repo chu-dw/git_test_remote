@@ -6,5 +6,8 @@ int main(){
    printf("hello");
    printf("bye");
 
+
+   b =a;
+
    return 0;
 }
