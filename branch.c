@@ -6,5 +6,7 @@ int main(){
    printf("hello");
    printf("bye");
 
+   scanf("%d",&a);
+
    return 0;
 }
