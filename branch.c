@@ -7,7 +7,10 @@ int main(){
    printf("hello");
    printf("bye");
 
+
    printf("input");
+
+
    scanf("%d",&a);
    scanf("%d",&c);
    
